@@ -1,4 +1,4 @@
-* 👋 Hi, I’m **@norawsawyer**
+👋 Hi, I’m **@norawsawyer**
 
 * I'm looking to start a new job on as a **research assistant, data processing associate or analyst** in a variety of industries. 
 * I'm **especially interested** in jobs that will introduce me to **skillsets related to database engineering**. 
