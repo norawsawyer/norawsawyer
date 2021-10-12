@@ -6,7 +6,7 @@
  
 * I'm passionate about using R for data analysis and visualization, and **making computational biology tools more accessible to the general public**. 
 
-* Outside of work, taking coursework through Google and Coursera to earn my Data Analytics Professional certificate. 
+* Outside of work, I'm taking coursework through Google and Coursera to earn my Data Analytics Professional certificate. 
 
 * I’m looking to collaborate on any research projects that involve computational biology 
 that are relevant to healthcare, medicine, genome evolution in humans and nonhuman primates, and microbial genome evolution. 
