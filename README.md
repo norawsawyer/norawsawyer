@@ -1,8 +1,6 @@
 * 👋 Hi, I’m **@norawsawyer**
 
-* 💼 I’m temporarily working as an **Anti-Money Laundering (AML)/Compliance Analyst** for an Austin-based FinTech company. 
-
-* 🔎 I'm looking to start a new job on **October 1st of 2021** as a data processing associate or analyst in a variety of industries. 
+* 🔎 I'm looking to start a new job on as a research assistant, data processing associate or analyst in a variety of industries. 
 * 👀 I'm **especially interested** in jobs that will introduce me to **skillsets related to database engineering**. 
  
 * 🔥 I'm passionate about using R for data analysis and visualization, and **making computational biology tools more accessible to the general public**. 
